@@ -1,0 +1,8 @@
+PUT http://127.0.0.1:8000/posts/7
+Content-Type: application/json
+
+{
+      "title": "cunt top beaches in florida",
+      "content": "check out these awesome beaches"
+    }
+###

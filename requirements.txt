@@ -1,0 +1,8 @@
+logger~=1.4
+published~=0.1.1
+requests~=2.26.0
+psycopg2~=2.9.1
+fastapi~=0.70.0
+pydantic~=1.8.2
+SQLAlchemy~=1.4.26
+passlib~=1.7.4
